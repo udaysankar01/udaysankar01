@@ -1,4 +1,4 @@
-## Hi there
+## Uday Sankar
 
 - 👋 Hi, my name is Uday
 - 🔍 I am passionate about Computer Vision and Robotics
